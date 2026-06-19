@@ -4,7 +4,7 @@
 This repository contains an interactive Tableau BI dashboard focused on **HR Analytics**.  
 The dashboard provides insights into employee attrition, workforce demographics, and job satisfaction trends, enabling HR teams to identify key patterns and make data-driven decisions.
 
-![HR Analytics Dashboard Screenshot](https://github.com/Amit-DataDoc23/HR_Analytics_Dashboard/blob/2aa15390e4371990fbf2a182cdd52aa04e001d4e/HR_Analytics_dashboard.png)
+![HR Analytics Dashboard Screenshot](https://github.com/Amit-DataDoc23/HR_Analytics_Report/blob/a1c934718a539441832420a33ba2572b58cb0de9/HR_Analytics_dashboard.png)
 
 ## Key Features
 - **KPIs at a glance**  
